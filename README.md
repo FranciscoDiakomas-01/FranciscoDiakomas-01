@@ -1,7 +1,8 @@
 ### Olá eu sou Francisco Diakomas👋
 
-[![logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fdiakomas@gmail.com)
-[![logo](    https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](Francisco)[![logo](        https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)]()
+[![logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](franciscodiakoma@gmail.com)
+[![logo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](Francisco)
+[![logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://wa.me/244957777993)
 
 ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoDiakomas&show_icons=true&theme=radical)
 
