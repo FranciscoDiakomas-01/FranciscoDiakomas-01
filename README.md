@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoDiakomas&layout=compact&theme=radical&custom_title=Linguagens_Mais_Usadas)
 
 
-###FrontEnd
+### FrontEnd
 
 <div style="display: inline-block;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="html">
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
 </div>
 
-###Bakend
+### Bakend
 
 <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="html">   
