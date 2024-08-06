@@ -5,7 +5,7 @@
 [![logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://wa.me/244957777993)
 
 ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoDiakomas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoDiakomas&layout=compact&theme=radical&custom_title=Linguagens_Mais_Usadas)
+![Francisco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoDiakomas&layout=compact&theme=radical&custom_title=Linguagens_Mais_Usadas)
 
 
 ### FrontEnd
