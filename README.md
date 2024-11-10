@@ -1,5 +1,5 @@
 
-# Olá eu sou Fracisco Lombo Dikomas <br> Dev <br>Web , Mobile e Desktop<br>
+# Olá eu sou Fracisco Lombo Dikomas <br> Dev <br>Web FullStack, Mobile e Desktop<br>
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61560288840032) 
