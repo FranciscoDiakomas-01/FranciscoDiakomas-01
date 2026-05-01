@@ -9,21 +9,21 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=tailwindmerge,amazonwebservices,c,electron,git,github,golang,freebsd,graphql,java,javascript,html,typescript,terraform,spring,springboot,reactjs,reactnative,mongodb,postgresql,nestjs,linux,kubernetes,nodejs,nextjs,nginx,docker,expressjs" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=tailwindmerge,amazonwebservices,c,git,github,java,javascript,html,typescript,terraform,spring,springboot,reactjs,reactnative,postgresql,nestjs,linux,kubernetes,nodejs,nextjs,nginx,docker" />
 </p>
 
 ---
 
-## 📦 Projects
+## 📦 Projetos
 
 - 🔹 E-learning platform (courses, certificates, marketplace)
-- 🔹 Multi-vendor eCommerce system
+- 🔹 Multi-vendor eCommerce system Cash on Delivery
 - 🔹 Workshop & event management system
 - 🔹 APIs with GraphQL, REST & WebSockets
 
 ---
 
-## ⚙️ What I focus on
+## ⚙️ Meu Foco
 
 - Backend Architecture (NestJS, Node.js)
 - Scalable APIs (GraphQL, REST)
@@ -35,12 +35,13 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoDiakomas-01&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Email: your@email.com
-- Portfolio: your-site.com
+- Email: franciscodiakomas@gmail.com
+- Portfolio: [your-site.com](https://franciscodiakomadev.vercel.app/)
+- Telefone : +244 957 777 993
