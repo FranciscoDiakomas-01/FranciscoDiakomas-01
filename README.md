@@ -16,19 +16,20 @@
 
 ## 📦 Projetos
 
-- 🔹 E-learning platform (courses, certificates, marketplace)
-- 🔹 Multi-vendor eCommerce system Cash on Delivery
-- 🔹 Workshop & event management system
-- 🔹 APIs with GraphQL, REST & WebSockets
+- 🔹 Plinkpay (Getaway de pagamentos )
+- 🔹 Kissalo ( Sistema de contratação de serviços )
+- 🔹 Scalefy ( Trackeador de Eventos em Apps ou Sites )
+- 🔹 Nublapay ( Plaforma de venda de infoprodutos )
 
 ---
 
 ## ⚙️ Meu Foco
 
-- Backend Architecture (NestJS, Node.js)
+- Backend Architecture
 - Scalable APIs (GraphQL, REST)
-- Databases (PostgreSQL, MongoDB, MySQL)
-- DevOps basics (Docker, Nginx, Kubernetes)
+- Databases
+- DevOps
+- System Design
 
 ---
 
