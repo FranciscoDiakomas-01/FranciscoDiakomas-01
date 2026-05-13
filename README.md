@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
+
+<h1 align="center">Hi 👋, I'm Francisco Diakomas | Backend specialist</h1>
 
 <p align="center">
   Fullstack Developer focused on scalable systems, APIs and modern web/mobile applications.
@@ -16,10 +17,10 @@
 
 ## 📦 Projetos
 
-- 🔹 Plinkpay (Getaway de pagamentos )
+- 🔹 Plinkpay (Getaway de pagamentos ) [Plinkpay](https://plinqpay.com/))
+- 🔹 Nublapay ( Plaforma de venda de infoprodutos ) [Plinkpay](https://nublapay.com/)
 - 🔹 Kissalo ( Sistema de contratação de serviços )
-- 🔹 Scalefy ( Trackeador de Eventos em Apps ou Sites )
-- 🔹 Nublapay ( Plaforma de venda de infoprodutos )
+- 🔹 Scalefy ( Trackeador de Eventos em Apps ou Sites 
 
 ---
 
@@ -36,25 +37,10 @@
 
 
 
-
-<h1 align="center">Hi 👋, I'm Francisco Diakomas | Backend specialist</h1>
-<h3 align="center">A software eng that can create and build scalable systems</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscodiakomas-01&label=Profile%20views&color=0e75b6&style=flat" alt="franciscodiakomas-01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscodiakomas-01" alt="franciscodiakomas-01" /></a> </p>
 
-- 🔭 I’m currently working on [Plinkpay](https://plinqpay.com/)
-
-- 🌱 I’m currently learning **Java and Spring Boot Ecocistem**
-
-- 👨‍💻 All of my projects are available at [https://franciscodiakomadev.vercel.app/](https://franciscodiakomadev.vercel.app/)
-
-- 📝 I regularly write articles on [https://franciscodiakomadev.vercel.app/](https://franciscodiakomadev.vercel.app/)
-
-- 📫 How to reach me **franciscodiakoma@gmail.com**
-
-- 📄 Know about my experiences [https://franciscodiakomadev.vercel.app/](https://franciscodiakomadev.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
