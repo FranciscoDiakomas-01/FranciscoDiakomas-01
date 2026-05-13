@@ -33,8 +33,7 @@
 - System Design
 
 ---
-
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoDiakomas-01&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=franciscoDiakomas-01&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📫 Contact
 
