@@ -9,7 +9,7 @@
 
 ## 🧠 Tech Stack
 
-<p align="center">
+<p >
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,git,github,java,javascript,html,typescript,spring,springboot,reactjs,reactnative,postgresql,nestjs,linux,kubernetes,nodejs,nextjs,nginx,docker" />
 </p>
 
@@ -32,17 +32,9 @@
 
 ---
 
-
-<p align="center">
+<p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camppus&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=camppus&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=camppus&theme=tokyonight&no-frame=true&row=2&column=3" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camppus&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
 </p>
 
