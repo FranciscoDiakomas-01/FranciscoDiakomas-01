@@ -10,7 +10,7 @@
 ## 🧠 Tech Stack
 
 <p >
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,git,github,java,javascript,html,typescript,spring,springboot,reactjs,reactnative,postgresql,nestjs,linux,kubernetes,nodejs,nextjs,nginx,docker" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,git,java,javascript,html,typescript,spring,springboot,reactjs,postgresql,nestjs,nodejs,nextjs,nginx,docker" />
 </p>
 
 ---
