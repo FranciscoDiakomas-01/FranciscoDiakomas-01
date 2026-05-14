@@ -19,8 +19,6 @@
 
 - 🔹 Plinkpay (Getaway de pagamentos ) [Plinkpay](https://plinqpay.com/))
 - 🔹 Nublapay ( Plaforma de venda de infoprodutos ) [Nublapay](https://nublapay.com/)
-- 🔹 Kissalo ( Sistema de contratação de serviços )
-- 🔹 Scalefy ( Trackeador de Eventos em Apps ou Sites 
 
 ---
 
@@ -34,9 +32,19 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=camppus&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camppus&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camppus&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=camppus&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=camppus&theme=tokyonight&no-frame=true&row=2&column=3" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camppus&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
+</p>
 
 ## 📫 Contact
 
@@ -45,8 +53,3 @@
 - Telefone : +244 957 777 993
 - Whatsapp : +244 957 777 
 - Location : Luand / Angola 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/camppus.vvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amppus.vvs" height="30" width="40" /></a>
-</p>
