@@ -10,7 +10,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=tailwindmerge,amazonwebservices,c,git,github,java,javascript,html,typescript,terraform,spring,springboot,reactjs,reactnative,postgresql,nestjs,linux,kubernetes,nodejs,nextjs,nginx,docker" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,git,github,java,javascript,html,typescript,spring,springboot,reactjs,reactnative,postgresql,nestjs,linux,kubernetes,nodejs,nextjs,nginx,docker" />
 </p>
 
 ---
@@ -33,7 +33,10 @@
 - System Design
 
 ---
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=camppus&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camppus&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contact
 
