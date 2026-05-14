@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Francisco Diakomas | Backend specialist</h1>
+<h1 align="center">Hi 👋, I'm Francisco Diakomas | Backend specialist & Fullstack Developer </h1>
 
 <p align="center">
   Fullstack Developer focused on scalable systems, APIs and modern web/mobile applications.
@@ -40,6 +40,8 @@
 - Email: franciscodiakomas@gmail.com
 - Portfolio: [franciscodiakoma.com](https://franciscodiakomadev.vercel.app/)
 - Telefone : +244 957 777 993
+- Whatsapp : +244 957 777 
+- Location : Luand / Angola 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
