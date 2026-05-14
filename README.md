@@ -33,7 +33,7 @@
 - System Design
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=franciscoDiakomas-01&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=camppus&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📫 Contact
 
