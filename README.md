@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Diakomas | Backend specialist & Fullstack Developer </h1>
 
 <p align="center">
-  Fullstack Developer focused on scalable systems, APIs and modern web/mobile applications.
+  Fullstack Developer focused on scalable systems, APIs and modern applications.
 </p>
 
 ---
@@ -14,29 +14,6 @@
 </p>
 
 ---
-
-## 📦 Projetos
-
-- 🔹 Plinkpay (Getaway de pagamentos ) [Plinkpay](https://plinqpay.com/))
-- 🔹 Nublapay ( Plaforma de venda de infoprodutos ) [Nublapay](https://nublapay.com/)
-
----
-
-## ⚙️ Meu Foco
-
-- Backend Architecture
-- Scalable APIs (GraphQL, REST)
-- Databases
-- DevOps
-- System Design
-
----
-
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camppus&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com?user=camppus&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camppus&layout=compact&theme=tokyonight&langs_count=10&hide=html,css" />
-</p>
 
 ## 📫 Contact
 
